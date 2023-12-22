@@ -1,1 +1,18 @@
 test
+
+C:\Demos\Codebeamer\Denso Wave>git add sample.txt
+
+C:\Demos\Codebeamer\Denso Wave>git commit -m "Data update #9531"
+[main 80803b5] Data update #9531
+ 1 file changed, 1 insertion(+)
+
+C:\Demos\Codebeamer\Denso Wave>git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 247 bytes | 247.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/sayantanb/cbdemo1222.git
+   d046860..80803b5  main -> main
+branch 'main' set up to track 'origin/main'.
+
+1222 update
